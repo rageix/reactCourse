@@ -8,7 +8,6 @@ interface MegaState {
 }
 
 function newMegaState(): MegaState {
-  console.log('newMegaState()');
   return {
     counter: 1,
     counter2: 1,

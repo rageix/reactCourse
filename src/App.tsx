@@ -1,5 +1,5 @@
-import CounterReducer from './Components/CounterReducer';
+import UseWindowExample from './Components/UseWindowExample';
 
 export default function App() {
-  return <CounterReducer />;
+  return <UseWindowExample />;
 }
