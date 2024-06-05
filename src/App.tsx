@@ -1,5 +1,5 @@
-import UseWindowExample from './Components/UseWindowExample';
+import Todo from './Components/Todo';
 
 export default function App() {
-  return <UseWindowExample />;
+  return <Todo />;
 }
